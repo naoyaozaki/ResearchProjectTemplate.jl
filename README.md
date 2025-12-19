@@ -1,2 +1,2 @@
-# Research_Project_Template
+# ResearchProjectTemplate.jl
 Template of Research Project
