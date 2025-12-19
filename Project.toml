@@ -1,0 +1,13 @@
+name = "ResearchProjectTemplate"
+uuid = "8d54d7d6-56b6-402f-aeb1-0e3ccbaf7a4f"
+authors = ["Naoya Ozaki"]
+version = "0.1.0"
+
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+
+[compat]
+CairoMakie = "0.15.8"
+IJulia = "1.33.0"
+julia = "1.11.5"
