@@ -1,5 +1,5 @@
 # ResearchProjectTemplate.jl
-Template of Research Project
+The program environment is built within a Julia project, research notes and programs are compiled in Jupyter Notebooks, research task lists are managed via GitHub Issues, and papers are progressed using Overleaf. This repository serves as an example of a GitHub repository for managing all of these collectively.
 
 ## For LaTeX
 Add the following extensions to VScode:
